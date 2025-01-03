@@ -1,4 +1,4 @@
-# DATA 1202 Spring 2024 Public Materials 
+# DATA 1202 Spring 2025 Public Materials 
 
 This repository contains the publicly available materials used in the DATA 1202 course at Michigan Technological University. 
 
